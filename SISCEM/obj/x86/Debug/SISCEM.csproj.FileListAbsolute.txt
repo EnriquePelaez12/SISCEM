@@ -1,0 +1,503 @@
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jesus\Documents\Visual Studio 2010\Projects\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Luis Miguel\Downloads\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+D:\zz\Empeño20150531_0952\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+C:\Users\Luis Miguel\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+C:\Users\Jesus\Downloads\Empeño20150609_2000\Empeño20150609_2000\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+D:\20150614\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+D:\20150614\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+D:\20150614\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+D:\20150614\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Luis Miguel\Downloads\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo.resources
+D:\20150615\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+D:\20150615\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+D:\20150615\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Movimientos.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ReportesClientes.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesempenioClientes.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenioClientes.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoCajero.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoSucursal.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptVentasClientes.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+D:\20150615\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+D:\20150712\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+D:\20150712\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+D:\20150712\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Movimientos.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ReportesClientes.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesempenioClientes.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenioClientes.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoCajero.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoSucursal.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptVentasClientes.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+D:\20150712\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+D:\201507129\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+D:\201507129\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+D:\201507129\Empeño\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+D:\201507129\Empeño\SISCEM\SISCEM\bin\Debug\AForge.Video.DirectShow.dll
+D:\201507129\Empeño\SISCEM\SISCEM\bin\Debug\AForge.Video.dll
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Boleta.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Cancela_boleta.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Carga_PDF.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaDesempenio.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaEmpenio.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaRefrendo.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Consulta_Codigo_Venta.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Consulta_Venta.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Cortez.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempenio_Detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Egresos.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Egresos_Detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empenio_detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Gurda_PDF.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ingresos.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ingresos_Detallados.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Movimientos.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Mov_Ingresos_Egresos.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Parametros.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Extemporaneo.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Ilimitado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Reimpresionrpt.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Reimprime_Contrato.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ReportesClientes.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptcortez.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesempenioClientes.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptdesempenio_detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEgresos_detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenioClientes.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenio_detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptIngresos_Detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoCajero.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoEgreso.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoIngreso.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoSucursal.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptPagoRefrendoIlimitado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendoExtemporaneo.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo_Detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptvantas_detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptVentasClientes.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Usuarios.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventas_detallado.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+D:\201507129\Empeño\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Boleta.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Cancela_boleta.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Carga_PDF.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaDesempenio.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaEmpenio.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaRefrendo.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Consulta_Codigo_Venta.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Consulta_Venta.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Cortez.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempenio_Detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Egresos.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Egresos_Detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empenio_detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Gurda_PDF.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ingresos.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ingresos_Detallados.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Movimientos.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Mov_Ingresos_Egresos.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Parametros.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Extemporaneo.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Ilimitado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Reimpresionrpt.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Reimprime_Contrato.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ReportesClientes.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptcortez.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesempenioClientes.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptdesempenio_detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEgresos_detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenioClientes.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenio_detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptIngresos_Detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoCajero.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoEgreso.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoIngreso.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoSucursal.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptPagoRefrendoIlimitado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendoExtemporaneo.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo_Detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptvantas_detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptVentasClientes.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Usuarios.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventas_detallado.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jesus\Documents\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+C:\Users\Jesus\Documents\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+C:\Users\Jesus\Documents\SISCEM\SISCEM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jesus\Documents\SISCEM\SISCEM\bin\Debug\AForge.Video.dll
+C:\Users\Jesus\Documents\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojResolveAssemblyReference.cache
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Acceso.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Boleta.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Actualiza_Kilates.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Agregar_Cajas.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Clientes.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Alta_Empleado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Arqueo_Caja.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Busqueda_Cliente.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Cancela_boleta.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Carga_PDF.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Categorias.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaDesempenio.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaEmpenio.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ConsultaRefrendo.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Consulta_Codigo_Venta.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Consulta_Venta.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Cortez.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeniorpt.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempenio_Detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Desempeño.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.DesgloseBoleta.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Egresos.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Egresos_Detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeniorpt.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empenio_detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empeño.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Empresa.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Gurda_PDF.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ingresos.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ingresos_Detallados.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Movimientos.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Mov_Ingresos_Egresos.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Parametros.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Principal.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Properties.Resources.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Extemporaneo.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Refrendo_Ilimitado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Reimpresionrpt.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Reimprime_Contrato.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.ReportesClientes.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptcortez.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesempenioClientes.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptdesempenio_detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptDesgloseBoleta.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEgresos_detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenioClientes.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptEmpenio_detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptIngresos_Detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoCajero.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoEgreso.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoIngreso.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptMovimientoSucursal.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptPagoRefrendoIlimitado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendoExtemporaneo.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptRefrendo_Detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptvantas_detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.rptVentasClientes.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Subcategorias.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Sucursal.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Usuarios.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventarpt.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Ventas_detallado.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.Venta_Prendas.resources
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.GenerateResource.Cache
+D:\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.cache
+D:\SISCEM\SISCEM\obj\x86\Debug\RdlCompile.compiled
+D:\SISCEM\SISCEM\bin\Debug\SISCEM.exe.config
+D:\SISCEM\SISCEM\bin\Debug\SISCEM.exe
+D:\SISCEM\SISCEM\bin\Debug\SISCEM.pdb
+D:\SISCEM\SISCEM\bin\Debug\AForge.Video.DirectShow.dll
+D:\SISCEM\SISCEM\bin\Debug\AForge.Video.dll
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.exe
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.pdb
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csprojAssemblyReference.cache
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.CoreCompileInputs.cache
+D:\SISCEM\SISCEM\obj\x86\Debug\SISCEM.csproj.CopyComplete

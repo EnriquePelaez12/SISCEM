@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BFC4D1B9-C23C-4A8D-B6FC-613DAD2A7280}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SISCEM</RootNamespace>
+    <AssemblyName>SISCEM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>bin\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>bin\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\AccesoDatos.cs" />
+    <Compile Include="Clases\AccesoLogica.cs" />
+    <Compile Include="Clases\ClsBaseDeDatos.cs" />
+    <Compile Include="Clases\ClsCargo.cs" />
+    <Compile Include="Clases\ClsCategoria.cs" />
+    <Compile Include="Clases\ClsCliente.cs" />
+    <Compile Include="Clases\ClsColonia.cs" />
+    <Compile Include="Clases\ClsConeccion.cs" />
+    <Compile Include="Clases\ClsEstado.cs" />
+    <Compile Include="Clases\ClsEstadoCivil.cs" />
+    <Compile Include="Clases\ClsMunicipio.cs" />
+    <Compile Include="Clases\ClsOcupacion.cs" />
+    <Compile Include="Clases\ClsParametros.cs" />
+    <Compile Include="Clases\ClsSexo.cs" />
+    <Compile Include="Parametros\Actualiza_Boleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Actualiza_Boleta.Designer.cs">
+      <DependentUpon>Actualiza_Boleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Actualiza_Kilates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Actualiza_Kilates.Designer.cs">
+      <DependentUpon>Actualiza_Kilates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Agregar_Cajas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Agregar_Cajas.Designer.cs">
+      <DependentUpon>Agregar_Cajas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Alta_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Alta_Clientes.Designer.cs">
+      <DependentUpon>Alta_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acceso\Alta_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso\Alta_Empleado.Designer.cs">
+      <DependentUpon>Alta_Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\Arqueo_Caja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Arqueo_Caja.Designer.cs">
+      <DependentUpon>Arqueo_Caja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\BD.cs" />
+    <Compile Include="Acceso\Acceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso\Acceso.Designer.cs">
+      <DependentUpon>Acceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Busqueda_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Busqueda_Cliente.Designer.cs">
+      <DependentUpon>Busqueda_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Cancela_boleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Cancela_boleta.Designer.cs">
+      <DependentUpon>Cancela_boleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Carga_PDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Carga_PDF.Designer.cs">
+      <DependentUpon>Carga_PDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Categorias.Designer.cs">
+      <DependentUpon>Categorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\BD_Portable.cs" />
+    <Compile Include="Clases\Configuracion.cs" />
+    <Compile Include="Desempeño\ConsultaDesempenio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempeño\ConsultaDesempenio.Designer.cs">
+      <DependentUpon>ConsultaDesempenio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empeño\ConsultaEmpenio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empeño\ConsultaEmpenio.Designer.cs">
+      <DependentUpon>ConsultaEmpenio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\ConsultaRefrendo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\ConsultaRefrendo.Designer.cs">
+      <DependentUpon>ConsultaRefrendo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\Consulta_Codigo_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\Consulta_Codigo_Venta.Designer.cs">
+      <DependentUpon>Consulta_Codigo_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\Consulta_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\Consulta_Venta.Designer.cs">
+      <DependentUpon>Consulta_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\Cortez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Cortez.Designer.cs">
+      <DependentUpon>Cortez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desempeño\Desempeniorpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempeño\Desempeniorpt.Designer.cs">
+      <DependentUpon>Desempeniorpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desempeño\Desempenio_Detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempeño\Desempenio_Detallado.Designer.cs">
+      <DependentUpon>Desempenio_Detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desempeño\Desempeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempeño\Desempeño.Designer.cs">
+      <DependentUpon>Desempeño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\DesgloseBoleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\DesgloseBoleta.Designer.cs">
+      <DependentUpon>DesgloseBoleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Detalle_Boleta.cs" />
+    <Compile Include="DS_PDF.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_PDF.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\EEmpenio.cs" />
+    <Compile Include="Contable\Egresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Egresos.Designer.cs">
+      <DependentUpon>Egresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\Egresos_Detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Egresos_Detallado.Designer.cs">
+      <DependentUpon>Egresos_Detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empeño\Empeniorpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empeño\Empeniorpt.Designer.cs">
+      <DependentUpon>Empeniorpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empeño\Empenio_detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empeño\Empenio_detallado.Designer.cs">
+      <DependentUpon>Empenio_detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empeño\Empeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empeño\Empeño.Designer.cs">
+      <DependentUpon>Empeño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Empresa.Designer.cs">
+      <DependentUpon>Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Gurda_PDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Gurda_PDF.Designer.cs">
+      <DependentUpon>Gurda_PDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\Ingresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Ingresos.Designer.cs">
+      <DependentUpon>Ingresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\Ingresos_Detallados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Ingresos_Detallados.Designer.cs">
+      <DependentUpon>Ingresos_Detallados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interes.cs">
+      <DependentUpon>interes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="interes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>interes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\MetodosDatos.cs" />
+    <Compile Include="Movimientos\Movimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Movimientos.Designer.cs">
+      <DependentUpon>Movimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\Mov_Ingresos-Egresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\Mov_Ingresos-Egresos.Designer.cs">
+      <DependentUpon>Mov_Ingresos-Egresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Parametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Parametros.Designer.cs">
+      <DependentUpon>Parametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESTODataSet.cs">
+      <DependentUpon>PRESTODataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PRESTODataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PRESTODataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Acceso\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Refrendo\Refrendo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo.Designer.cs">
+      <DependentUpon>Refrendo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo_Detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo_Detallado.Designer.cs">
+      <DependentUpon>Refrendo_Detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo_Extemporaneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo_Extemporaneo.Designer.cs">
+      <DependentUpon>Refrendo_Extemporaneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo_Ilimitado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\Refrendo_Ilimitado.Designer.cs">
+      <DependentUpon>Refrendo_Ilimitado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Reimpresionrpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Reimpresionrpt.Designer.cs">
+      <DependentUpon>Reimpresionrpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Reimprime_Contrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Reimprime_Contrato.Designer.cs">
+      <DependentUpon>Reimprime_Contrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\ReportesClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\ReportesClientes.Designer.cs">
+      <DependentUpon>ReportesClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\rptcortez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\rptcortez.Designer.cs">
+      <DependentUpon>rptcortez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desempeño\rptDesempenioClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempeño\rptDesempenioClientes.Designer.cs">
+      <DependentUpon>rptDesempenioClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desempeño\rptdesempenio_detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempeño\rptdesempenio_detallado.Designer.cs">
+      <DependentUpon>rptdesempenio_detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\rptDesgloseBoleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\rptDesgloseBoleta.Designer.cs">
+      <DependentUpon>rptDesgloseBoleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\rptEgresos_detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\rptEgresos_detallado.Designer.cs">
+      <DependentUpon>rptEgresos_detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empeño\rptEmpenioClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empeño\rptEmpenioClientes.Designer.cs">
+      <DependentUpon>rptEmpenioClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empeño\rptEmpenio_detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empeño\rptEmpenio_detallado.Designer.cs">
+      <DependentUpon>rptEmpenio_detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\rptIngresos_Detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\rptIngresos_Detallado.Designer.cs">
+      <DependentUpon>rptIngresos_Detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\rptMovimientoCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\rptMovimientoCajero.Designer.cs">
+      <DependentUpon>rptMovimientoCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\rptMovimientoEgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\rptMovimientoEgreso.Designer.cs">
+      <DependentUpon>rptMovimientoEgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contable\rptMovimientoIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contable\rptMovimientoIngreso.Designer.cs">
+      <DependentUpon>rptMovimientoIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\rptMovimientoSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\rptMovimientoSucursal.Designer.cs">
+      <DependentUpon>rptMovimientoSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\rptPagoRefrendoIlimitado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\rptPagoRefrendoIlimitado.Designer.cs">
+      <DependentUpon>rptPagoRefrendoIlimitado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\rptRefrendo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\rptRefrendo.Designer.cs">
+      <DependentUpon>rptRefrendo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\rptRefrendoExtemporaneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\rptRefrendoExtemporaneo.Designer.cs">
+      <DependentUpon>rptRefrendoExtemporaneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Refrendo\rptRefrendo_Detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refrendo\rptRefrendo_Detallado.Designer.cs">
+      <DependentUpon>rptRefrendo_Detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\rptvantas_detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\rptvantas_detallado.Designer.cs">
+      <DependentUpon>rptvantas_detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\rptVentasClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\rptVentasClientes.Designer.cs">
+      <DependentUpon>rptVentasClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Subcategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Subcategorias.Designer.cs">
+      <DependentUpon>Subcategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\Sucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\Sucursal.Designer.cs">
+      <DependentUpon>Sucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acceso\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso\Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Utilities.cs" />
+    <Compile Include="Venta\Ventarpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\Ventarpt.Designer.cs">
+      <DependentUpon>Ventarpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\Ventas_detallado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\Ventas_detallado.Designer.cs">
+      <DependentUpon>Ventas_detallado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\Venta_Prendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\Venta_Prendas.Designer.cs">
+      <DependentUpon>Venta_Prendas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acceso\Acceso.resx">
+      <DependentUpon>Acceso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Actualiza_Boleta.resx">
+      <DependentUpon>Actualiza_Boleta.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Actualiza_Kilates.resx">
+      <DependentUpon>Actualiza_Kilates.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Agregar_Cajas.resx">
+      <DependentUpon>Agregar_Cajas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Alta_Clientes.resx">
+      <DependentUpon>Alta_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acceso\Alta_Empleado.resx">
+      <DependentUpon>Alta_Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\Arqueo_Caja.resx">
+      <DependentUpon>Arqueo_Caja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Busqueda_Cliente.resx">
+      <DependentUpon>Busqueda_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Cancela_boleta.resx">
+      <DependentUpon>Cancela_boleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Carga_PDF.resx">
+      <DependentUpon>Carga_PDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Categorias.resx">
+      <DependentUpon>Categorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeño\ConsultaDesempenio.resx">
+      <DependentUpon>ConsultaDesempenio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empeño\ConsultaEmpenio.resx">
+      <DependentUpon>ConsultaEmpenio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\ConsultaRefrendo.resx">
+      <DependentUpon>ConsultaRefrendo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\Consulta_Codigo_Venta.resx">
+      <DependentUpon>Consulta_Codigo_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\Consulta_Venta.resx">
+      <DependentUpon>Consulta_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\CorteZ.rdlc" />
+    <EmbeddedResource Include="Contable\Cortez.resx">
+      <DependentUpon>Cortez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeño\Desempenio.rdlc" />
+    <EmbeddedResource Include="Desempeño\Desempeniorpt.resx">
+      <DependentUpon>Desempeniorpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeño\Desempenio_Detallado.resx">
+      <DependentUpon>Desempenio_Detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeño\Desempeño.resx">
+      <DependentUpon>Desempeño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\DesgloseBoleta.rdlc" />
+    <EmbeddedResource Include="Movimientos\DesgloseBoleta.resx">
+      <DependentUpon>DesgloseBoleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\Egresos.resx">
+      <DependentUpon>Egresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\Egresos_Detallado.resx">
+      <DependentUpon>Egresos_Detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empeño\Empeniorpt.resx">
+      <DependentUpon>Empeniorpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empeño\Empenio_detallado.resx">
+      <DependentUpon>Empenio_detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empeño\Empeño.resx">
+      <DependentUpon>Empeño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Empresa.resx">
+      <DependentUpon>Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Gurda_PDF.resx">
+      <DependentUpon>Gurda_PDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\Ingresos.resx">
+      <DependentUpon>Ingresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\Ingresos_Detallados.resx">
+      <DependentUpon>Ingresos_Detallados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\MovEgresos.rdlc" />
+    <EmbeddedResource Include="Movimientos\Movimientos.resx">
+      <DependentUpon>Movimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\Mov_Ingresos-Egresos.resx">
+      <DependentUpon>Mov_Ingresos-Egresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Parametros.resx">
+      <DependentUpon>Parametros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acceso\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Refrendo\Refrendo.resx">
+      <DependentUpon>Refrendo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\Refrendo_Detallado.resx">
+      <DependentUpon>Refrendo_Detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\Refrendo_Extemporaneo.resx">
+      <DependentUpon>Refrendo_Extemporaneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\Refrendo_Ilimitado.resx">
+      <DependentUpon>Refrendo_Ilimitado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Reimpresionrpt.resx">
+      <DependentUpon>Reimpresionrpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Reimprime_Contrato.resx">
+      <DependentUpon>Reimprime_Contrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\ReportesClientes.resx">
+      <DependentUpon>ReportesClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\rptcortez.resx">
+      <DependentUpon>rptcortez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeño\rptDesempenioClientes.rdlc" />
+    <EmbeddedResource Include="Desempeño\rptDesempenioClientes.resx">
+      <DependentUpon>rptDesempenioClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeño\rptdesempenio_detallado.rdlc" />
+    <EmbeddedResource Include="Desempeño\rptdesempenio_detallado.resx">
+      <DependentUpon>rptdesempenio_detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\rptDesgloseBoleta.resx">
+      <DependentUpon>rptDesgloseBoleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\rptEgresos_detallado.rdlc" />
+    <EmbeddedResource Include="Contable\rptEgresos_detallado.resx">
+      <DependentUpon>rptEgresos_detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empeño\rptEmpenio.rdlc" />
+    <EmbeddedResource Include="Empeño\rptEmpenioClientes.rdlc" />
+    <EmbeddedResource Include="Empeño\rptEmpenioClientes.resx">
+      <DependentUpon>rptEmpenioClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empeño\rptEmpenio_detallado.rdlc" />
+    <EmbeddedResource Include="Empeño\rptEmpenio_detallado.resx">
+      <DependentUpon>rptEmpenio_detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\rptIngresos_Detallado.rdlc" />
+    <EmbeddedResource Include="Contable\rptIngresos_Detallado.resx">
+      <DependentUpon>rptIngresos_Detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\rptMovCajero.rdlc" />
+    <EmbeddedResource Include="Movimientos\rptMovimientoCajero.resx">
+      <DependentUpon>rptMovimientoCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\rptMovimientoEgreso.resx">
+      <DependentUpon>rptMovimientoEgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contable\rptMovimientoIngreso.resx">
+      <DependentUpon>rptMovimientoIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\rptMovimientoSucursal.resx">
+      <DependentUpon>rptMovimientoSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\rptMovIngresos.rdlc" />
+    <EmbeddedResource Include="Movimientos\rptMovSucursal.rdlc" />
+    <EmbeddedResource Include="Refrendo\rptPagoRefrendoIlimitado.resx">
+      <DependentUpon>rptPagoRefrendoIlimitado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\rptRefrendo.rdlc" />
+    <EmbeddedResource Include="Refrendo\rptRefrendo.resx">
+      <DependentUpon>rptRefrendo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\rptrefrendoexemporaneo.rdlc" />
+    <EmbeddedResource Include="Refrendo\rptRefrendoExtemporaneo.resx">
+      <DependentUpon>rptRefrendoExtemporaneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Refrendo\rptRefrendoPagoIlimitado.rdlc" />
+    <EmbeddedResource Include="Refrendo\rptrefrendo_detallado.rdlc" />
+    <EmbeddedResource Include="Refrendo\rptRefrendo_Detallado.resx">
+      <DependentUpon>rptRefrendo_Detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\rptReimprime.rdlc" />
+    <EmbeddedResource Include="Venta\rptvantas_detallado.resx">
+      <DependentUpon>rptvantas_detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\rptVentasClientes.rdlc" />
+    <EmbeddedResource Include="Venta\rptVentasClientes.resx">
+      <DependentUpon>rptVentasClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\rptventas_detallado.rdlc" />
+    <EmbeddedResource Include="Parametros\Subcategorias.resx">
+      <DependentUpon>Subcategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\Sucursal.resx">
+      <DependentUpon>Sucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acceso\Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\Venta.rdlc" />
+    <EmbeddedResource Include="Venta\Ventarpt.resx">
+      <DependentUpon>Ventarpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\Ventas_detallado.resx">
+      <DependentUpon>Ventas_detallado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta\Venta_Prendas.resx">
+      <DependentUpon>Venta_Prendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_PDF.xsc">
+      <DependentUpon>DS_PDF.xsd</DependentUpon>
+    </None>
+    <None Include="DS_PDF.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_PDF.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_PDF.xss">
+      <DependentUpon>DS_PDF.xsd</DependentUpon>
+    </None>
+    <None Include="interes.xsc">
+      <DependentUpon>interes.xsd</DependentUpon>
+    </None>
+    <None Include="interes.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>interes.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="interes.xss">
+      <DependentUpon>interes.xsd</DependentUpon>
+    </None>
+    <None Include="PRESTODataSet.xsc">
+      <DependentUpon>PRESTODataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PRESTODataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PRESTODataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PRESTODataSet.xss">
+      <DependentUpon>PRESTODataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataSet\" />
+    <Folder Include="Imagenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CASA DE EMPEÑO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CASA DE EMPEÑO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoPV1366-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoPV1366-8.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
